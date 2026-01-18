@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Edwin
 
-**Back-End Developer | API Engineer | Problem Solver**
+**Full-stack Developer | API Engineer | Problem Solver**
 
 I’m a passionate **Full-stack Developer** focused on building **scalable, secure, and efficient server-side systems**. I enjoy transforming ideas into reliable products using clean architecture and well-documented APIs. Currently, I’m expanding into **Kotlin-based mobile development** to broaden my full-stack capabilities.
 
